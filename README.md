@@ -2,6 +2,8 @@
 
 The Xylophone app is a simple and fun music app developed using Flutter. It allows users to play various musical notes by tapping on colorful bars displayed on the screen, mimicking the functionality of a xylophone instrument.
 
+![Bitcoin Ticker App Demo](xylophone.mp4)
+
 ## Features
 
 - Easy-to-use interface: Users can simply tap on the colored bars to produce musical notes.
